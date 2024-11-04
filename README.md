@@ -5,7 +5,8 @@ AIFFEL_quest_rs
 │  
 ├── MainQuest  
 │   ├── Quest01  
-│   │   ├── .ipynb  
+│   │   ├── regression_diabetes.ipynb  
+│   │   ├── regression_bikesharing.ipynb
 │   │   └── README.md  
 │   ├── Quest02  
 │   │   ├── .ipynb  

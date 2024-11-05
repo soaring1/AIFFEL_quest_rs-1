@@ -46,6 +46,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
     - 그리드 탐색 부분이 잘 구현되어 있고 그리드 탐색이 가장 핵심이 되는 노드였다 개인적으로 생각해서 해당부분이 중요했던거 같습니다.
+    ![image](./image/Ex02_02.png)
     ```python
     # LMS 노드 예제 그대로
     param_grid = {
@@ -73,7 +74,6 @@
     srch_rslt = my_GridSearch(model, train, y, param_grid, verbose=2, n_jobs=5)
     srch_rslt
     ```
-        ![image](./image/Ex02_02.png)
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
